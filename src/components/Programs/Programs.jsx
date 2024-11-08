@@ -13,21 +13,21 @@ const Programs = () => {
       <div className=" mx-auto w-11/12 flex items-center justify-between gap-12  mb-16">
         <div className="relative">
           <img className="w-[100%] rounded-xl basis-3" src={program_1} alt="" />
-          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col w-[120px] items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
+          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
             <img src={program_icon_1} alt="" />
             <p className="text-white">Graduation Degree</p>
           </div>
         </div>
         <div className="relative">
           <img className="w-[100%] rounded-xl basis-3" src={program_2} alt="" />
-          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col w-[120px] items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
+          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
             <img src={program_icon_2} alt="" />
             <p className="text-white">Masters Degree</p>
           </div>
         </div>
         <div className="relative">
           <img className="w-[100%] rounded-xl basis-3" src={program_3} alt="" />
-          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col w-[120px] items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
+          <div className="absolute top-0 left-0 w-full rounded-sm bottom-0 right-0 z-10 bg-[rgba(0,15,152,0.3)] flex flex-col items-center justify-center cursor-pointer opacity-0 pt-40 transition-all duration-500 hover:opacity-100 hover:pt-0">
             <img src={program_icon_3} alt="" />
             <p className="text-white">Post-Graduation Degree</p>
           </div>
